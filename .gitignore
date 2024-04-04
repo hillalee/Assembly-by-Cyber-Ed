@@ -1,0 +1,9 @@
+# ignore all non-.asm files
+
+*.EXE
+*.MAP
+*.OBJ
+*.OVL
+*.sample
+*.TD
+*.TR
