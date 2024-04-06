@@ -13,7 +13,7 @@ start:
 ; --------------------------
 ; Your code here
 	mov bx, offset Array
-    mov  al, [bx]
+    mov  al, [bx] ; bx keeps Array's start address
 ; --------------------------
 	
 exit:
